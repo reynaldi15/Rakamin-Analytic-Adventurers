@@ -29,7 +29,7 @@ penjelasan detail :
 ```
 
 ## Data PreProcessing ⚙️
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Pada tahapan Data Pre-Processing menghasilkan sebuah data yang sudah diolah menjadi data yang berguna kedepannya dalam pemodelan data. Holiday package masih memiliki beberapa data yang tidak normal dan tidak sesuai type data. Hal teresebut akan membuat kesalah dalam pemodelan prediksi, maka dari hal tersebut tahapan Pre-processing sangat membantu dalam mengolah data yang dimiliki dengan menggunakan metode serta pendekatan yang sesuai dalam memperbaiki dataset. tahapan ini tidak hanya membuang feature yang tidak digunakan pada pemodelan namun juga meghasilkan sebuah feature terbaru yang membantu dalam peningkatan model prediksi, seperti membuat klasifikasi umur yang berasal dari feature yang sudah ada. serta feature lainnya yang masih belum ada di dataset.
 
 ## Exploratory Data Analysis (EDA) 💡〽️
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
